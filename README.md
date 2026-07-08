@@ -115,22 +115,6 @@ Visit
 http://localhost:3000
 ```
 
----
-
-## 📬 Contact
-
-📧 Email: your-email@example.com
-
-🌐 Portfolio:
-https://imran-siddique.vercel.app/
-
-LinkedIn:
-https://linkedin.com/in/your-profile
-
-GitHub:
-https://github.com/your-username
-
----
 
 ## 🤝 Contributing
 
@@ -146,6 +130,6 @@ If you found this project helpful or inspiring, consider giving it a ⭐ on GitH
 
 <div align="center">
 
-Built with ❤️ by **Imran Siddique**
+Built by **Aneeq Imran**
 
 </div>
