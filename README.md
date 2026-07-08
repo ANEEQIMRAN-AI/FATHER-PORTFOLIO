@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineer | Full Stack Developer | AI Enthusiast
+### Electerical Engineer
 
 🔗 **Live Website:** https://imran-siddique.vercel.app/
 
